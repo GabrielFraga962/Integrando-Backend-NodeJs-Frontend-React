@@ -40,14 +40,7 @@ Aprenda como integrar um Front-end em React com uma API REST (desenvolvida em No
 ###### Intermediário
 
 ------
-
-###### ESPECIALISTA
-
-![author](https://hermes.digitalinnovation.one/users/author/photos/b33b1bf9-b69f-44e1-ace6-da8d5a0a6149.png)    <br>       
-
-###### Nathally Souza
-
-Application Developer, ThoughtWorks[**](https://www.linkedin.com/in/nathally-souza-7331a71b9/)    <br>        [**](https://github.com/nathyts/)    <br>       
+    
 
 **Descrição do Desafio**
 
@@ -55,7 +48,6 @@ Aprenda como integrar um Front-end em React com uma API REST (desenvolvida em No
 
 **Links Úteis**
 
-[Repositório no GitHub com o Front-end](https://github.com/nathyts/dioshopping)    <br>        (implementação de referência)    <br>       
-[Repositório no GitHub com o Back-end/API](https://github.com/nathyts/api-dioshopping)    <br>        (implementação de referência)    <br>       
+
 
  
